@@ -1,7 +1,6 @@
 # AGENTS.md
 
 ## Rules
-- Never modify files outside src/
 - Never install dependencies without approval
 - Never commit changes automatically
 
