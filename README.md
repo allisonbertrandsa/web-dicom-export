@@ -68,4 +68,5 @@ The DICOM PS3.10 serialization step is intentionally left behind an interface in
 
 ## Credits
 SenoGram is a registered trademark of www.senomedical.com.
+
 Developed with assistance from OpenAI Codex.
