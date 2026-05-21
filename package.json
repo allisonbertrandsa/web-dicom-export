@@ -1,0 +1,19 @@
+{
+  "name": "web-dicom-export",
+  "version": "0.1.0",
+  "description": "Export a browser report view to a DICOM Encapsulated PDF and store it to PACS.",
+  "type": "module",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "dcmjs": "^0.45.0",
+    "pdf-lib": "^1.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
+  }
+}
