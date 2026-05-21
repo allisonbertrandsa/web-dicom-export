@@ -65,3 +65,7 @@ This is a skeleton implementation. It defines the interfaces and workflow bounda
 - browser button integration
 
 The DICOM PS3.10 serialization step is intentionally left behind an interface in `DcmjsEncapsulatedPdfDicomBuilder` until the target PACS conformance requirements are confirmed.
+
+## Credits
+SenoGram is a registered trademark of www.senomedical.com.
+Developed with assistance from OpenAI Codex.
